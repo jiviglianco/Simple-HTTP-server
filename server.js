@@ -1,6 +1,3 @@
-// server.js
-
-// Importing the required modules
 const http = require('http')
 const url = require('url')
 
